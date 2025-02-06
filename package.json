@@ -1,0 +1,14 @@
+{
+  "name": "pushp",
+  "version": "1.0.0",
+  "description": "cool shi",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "my esteemed self",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
